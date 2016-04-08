@@ -1,5 +1,5 @@
 # hello-world
-my first repository
+my first reposiory
 
 hey,
   My name is aagam jain working as an intern at persistent.co.in...
